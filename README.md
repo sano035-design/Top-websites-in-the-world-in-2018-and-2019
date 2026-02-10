@@ -41,10 +41,8 @@ To ensure the accuracy of the ranking analysis, several **Power Query (M-Code)**
 2. **Open Project**: Load `powerbi/website_analysis.pbix`.
 3. **Interactive Analysis**: Use the slicers to filter data by **Principal Country** or **Type Group**.
 
-## Key ininsite 
-
 
 ## 📊 Dashboard Preview
 
-![Main Dashboard Preview](C:\Users\sano0\OneDrive\문서\바탕 화면\Top websites in 2018 and 2019.jpg)
+![Main Dashboard Preview](Top%20websites%20in%202018%20and%202019.jpg)
 
