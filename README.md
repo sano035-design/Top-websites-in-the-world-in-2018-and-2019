@@ -40,7 +40,7 @@ To ensure the accuracy of the ranking analysis, several **Power Query (M-Code)**
 1. **Prerequisites**: Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed.
 2. **Open Project**: Load `powerbi/website_analysis.pbix`.
 3. **Interactive Analysis**: Use the slicers to filter data by **Principal Country** or **Type Group**.
-4. [Look at detail key insight](analysis/ANALYSIS.md)
+4. [Look at detail key insight](analysis/analysis.md)
 
 
 ## 📊 Dashboard Preview
