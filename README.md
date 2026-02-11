@@ -44,5 +44,5 @@ To ensure the accuracy of the ranking analysis, several **Power Query (M-Code)**
 
 ## 📊 Dashboard Preview
 
-![Main Dashboard Preview](Top%20websites%20in%202018%20and%202019.jpg)
+![Main Dashboard Preview](top-websites.jpg)
 
